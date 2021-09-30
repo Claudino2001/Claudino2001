@@ -2,7 +2,7 @@
 
 Eu sou um estudante de Engenharia da Computação.
 
-Sempre em busca por novos desafios. 
+Sempre em busca de novos desafios. 
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielclaudinoo/) 
 
