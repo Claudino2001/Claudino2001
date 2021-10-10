@@ -1,6 +1,6 @@
 ### Olá 👋!!! Me chamo Gabriel Claudino.
 
-Eu sou um estudante de Engenharia da Computação.
+Sou um estudante de Engenharia da Computação (2/10).
 
 Sempre em busca de novos desafios. 
   
