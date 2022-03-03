@@ -1,4 +1,4 @@
-### Olá 👋!!! Me chamo Gabriel Claudino.
+### Olá!!! Me chamo Gabriel Claudino.
 
 Sou estudante de Engenharia da Computação (3/10).
   
