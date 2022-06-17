@@ -8,3 +8,10 @@ Eu me chamo Gabriel Claudino e sou um estudante de Engenharia da Computação no
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
+## Estatísticas
+
+<div align="center">
+  <a href="https://github.com/Claudino2001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudino2001&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudino2001&layout=compact&langs_count=7&theme=darcula"/>
+</div>
