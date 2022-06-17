@@ -12,5 +12,5 @@ Eu me chamo Gabriel Claudino e sou um estudante de Engenharia da Computação no
 
 <div align="center">
   <a href="https://github.com/Claudino2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudino2001&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudino2001&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudino2001&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudino2001&layout=compact&langs_count=7&theme=darcula"/>
 </div>
