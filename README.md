@@ -1,4 +1,4 @@
-## Olá! Bem vindo(a) a minha conta do Github!
+## Olá! Bem vindo(a) a minha conta do Github!!!
 
 Eu me chamo Gabriel Claudino e sou um estudante de Engenharia da Computação no SENAI CIMATEC (3/10).
   
