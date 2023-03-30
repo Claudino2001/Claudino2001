@@ -1,6 +1,6 @@
 ## Olá! Bem vindo(a) ao meu perfil do Github!!!
 
-Eu me chamo Gabriel Claudino e sou um estudante de Engenharia da Computação do SENAI CIMATEC (4/10).
+Eu me chamo Gabriel Claudino e sou um estudante de Engenharia da Computação do SENAI CIMATEC (5/10).
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielclaudinoo/) 
 <a href="https://www.instagram.com/gaclaudinoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
