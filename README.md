@@ -1,6 +1,6 @@
 ## Hello! Welcome to my Github profile!!! :smile:
 
-My name is Gabriel Claudino and I am a Computer Engineering student at SENAI CIMATEC (5/10).
+My name is Gabriel Claudino and I am a Computer Engineering student at SENAI CIMATEC (6/10).
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielclaudinoo/) 
 <a href="https://www.instagram.com/gaclaudinoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
