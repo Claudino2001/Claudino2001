@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Claudino</h1>
 <h3 align="center">A dedicated backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Intern** and **Freelancer**
 
 - 🌱 I’m currently learning **Java** and **Cuda**
 
