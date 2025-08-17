@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Gabriel Claudino</h1>
 <h3 align="center">A dedicated backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Intern** and **Freelancer**
+- 🎓 I’m currently in the **ninth semester** (9/10) of my **Computer Engineering** degree  
 
-- 🌱 I’m currently learning **Java** and **Cuda**
+- 💻 I’m currently studying to become a **Full Stack Developer**  
 
-- 🤝 I’m looking for help with **SaaS**
+- 🌍 I’d appreciate help in **finding job opportunities in Europe**  
 
 - 👨‍💻 All of my projects are available at here
   
